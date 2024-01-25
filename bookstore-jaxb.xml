@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:carstore xmlns:ns2="com.vogella.xml.jaxb.gradle.model">
+    <location>Frankfurt Airport</location>
+    <name>Fraport Bookstore</name>
+    <carlist>
+        <Car>
+            <title>m3</title>
+            <brand>BMW</brand>
+        </Car>
+        <Car>
+            <title>AMG c63</title>
+            <brand>Mercedes-benz</brand>
+        </Car>
+    </carlist>
+</ns2:carstore>
